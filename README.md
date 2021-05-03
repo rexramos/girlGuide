@@ -14,3 +14,5 @@ The program will:
   - any guides selling above average get a badge
   - any guides selling at least one box get to split the remaining cookies
   - with guides selling no boxes shut out of all prizes (as they should be).
+
+  ![girlGUideJamboree](./_img/girlGuideJamboreePY.JPG)
